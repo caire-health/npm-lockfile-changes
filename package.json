@@ -24,7 +24,7 @@
     "js-base64": "^3.7.7",
     "markdown-table": "^3.0.2",
     "semver": "^7.6.0",
-    "snyk-nodejs-lockfile-parser": "^1.52.11"
+    "snyk-nodejs-lockfile-parser": "^2.4.4"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
